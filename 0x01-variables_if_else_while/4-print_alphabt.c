@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
- * main:Entry Point
- * Description: Prints the alphabet in lowercase follwed
+ * main - Entry Point
+ * Prints the alphabet in lowercase follwed
  * by a new line, except q and e
  * Return: 0
  */
